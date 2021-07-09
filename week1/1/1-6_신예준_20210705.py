@@ -13,5 +13,4 @@ class Solution:
                 j+=1
             newlist.append(1)
             li.append(newlist)
-            print(newlist)
         return li
