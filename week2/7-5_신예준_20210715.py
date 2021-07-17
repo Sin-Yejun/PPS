@@ -1,0 +1,5 @@
+n = input()
+d = list(map(int,n))
+d.sort(reverse=True)
+result = "".join(map(str,d))
+print(result)
